@@ -1,5 +1,0 @@
-print("Person A:\"Why are you learning python?\"")
-print()
-print("Person B:\"it is need of time\"")
-print()
-print("Person A:\"That's true\"")
